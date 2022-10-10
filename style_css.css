@@ -255,6 +255,7 @@ p{
   }
   .media ul{
     display: flex;
+     margin-top: 18px;
   }
   .media ul li{
     position:relative;
